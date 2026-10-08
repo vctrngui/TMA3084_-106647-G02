@@ -5,5 +5,3 @@ A Dart program that calculates the total payment for a pizza order.
 - Prices: Small = 5 USD, Medium = 7 USD, Large = 10 USD
 - Uses a `switch` statement to calculate the price
 - Uses a `while` loop for continuous ordering and input validation
-
-Run with: `dart run PizzaOrder.dart`
